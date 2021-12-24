@@ -11,10 +11,9 @@ This project allows us to generate professional read me documents by answering s
 
 ## Table of Contents
 
-* [Installations](#dependencies)
+* [Installations](#installations)
 
-* [usage](#usage)
-
+* [use](#use)
 
 * [License](#license)
 
