@@ -1,5 +1,5 @@
 # Professional ReadMe Generator
-![GitHub license] (https://img.shields.io/badge/license-none-yellowgreen.svg)
+![GitHub license](https://img.shields.io/badge/license-none-yellowgreen.svg)
 
 ## Github URL
 
