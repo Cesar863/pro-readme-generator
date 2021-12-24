@@ -11,18 +11,17 @@ This project allows us to generate professional read me documents by answering s
 
 ## Table of Contents
 
-* [Installations](#installations)
+* [Installations](#package-installations)
 
-* [use](#use)
+* [use](#repo-use)
 
 * [License](#license)
 
-
 * [Contributors](#contributors)
 
-* [Test](#test)
+* [Test](#tests)
 
-## Installations (Packages)
+## Package Installations
 
 To install dependencies, please run these commands:
 
