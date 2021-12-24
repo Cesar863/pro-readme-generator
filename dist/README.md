@@ -1,5 +1,5 @@
-# Professional ReadMe Generator
-![GitHub license](https://img.shields.io/badge/license-none-yellowgreen.svg)
+# Professional README Generator
+![GitHub license](https://img.shields.io/badge/license-none-blue.svg)
 
 ## Github URL
 
@@ -7,31 +7,31 @@
 
 ## Description
 
-This project generates a README file by asking simple questions and then populating them to a read me file.
+This project allows us to generate professional read me documents by answering some simple questions.
 
 ## Table of Contents
 
 * [Installations](#dependencies)
 
-*[usage](#usage)
+* [usage](#usage)
 
 
 * [License](#license)
 
 
-*[Contributors](#contributors)
+* [Contributors](#contributors)
 
-*[Test](*test)
+* [Test](#test)
 
 ## Installations (Packages)
 
 To install dependencies, please run these commands:
 
-Inquierer and express
+Inquirer package should be installed using the command "npm i"
 
 ## Repo Use
 
-This repo is used to generate a ReadMefile
+This repo is used to generate professional grade read me documents that can be used for any project.
 
 ## License 
       
@@ -43,7 +43,7 @@ This repo is used to generate a ReadMefile
 
 Cesar Martinez
 
-Contact me at undefined
+Contact me at Cesarm.863@gmail.com
 
 ## Tests
 
