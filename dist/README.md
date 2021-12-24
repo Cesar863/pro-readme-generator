@@ -13,7 +13,7 @@ This project allows us to generate professional read me documents by answering s
 
 * [Installations](#package-installations)
 
-* [use](#repo-use)
+* [Use](#repo-use)
 
 * [License](#license)
 
