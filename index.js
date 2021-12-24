@@ -8,22 +8,54 @@ const questions = [
     {
         type:'input',
         name:'name',
-        message: 'What is your first and last name? (required)'
+        message: 'Who created this repo? (required)',
+        validate: nameInput => {
+            if (nameInput) {
+                return true;
+            } else {
+                console.log('Please enter the creators first and last name!');
+                return false;
+            }
+        }
     },
     {
         type:'input',
         name:'github',
         message:'What is your Github username? (required)',
+        validate: nameInput => {
+            if (nameInput) {
+                return true;
+            } else {
+                console.log('Please enter your Github Username!');
+                return false;
+            }
+        }
     },
     {
         type: 'input',
         name: 'title',
-        message: 'What is the name of your project? (required)'
+        message: 'What is the name of your project? (required)',
+        validate: nameInput => {
+            if (nameInput) {
+                return true;
+            } else {
+                console.log('Please enter a title for your project!');
+                return false;
+            }
+        }
     },
     {
         type: 'input',
         name: 'description',
-        message: 'Please describe what your project is about. (required)'
+        message: 'Please describe what your project is about. (required)',
+        validate: nameInput => {
+            if (nameInput) {
+                return true;
+            } else {
+                console.log('Please provide a quick description about your project!');
+                return false;
+            }
+        }
     },
     {
         type: 'list',
@@ -35,7 +67,7 @@ const questions = [
     {
         type:'input',
         name:'packages',
-        message:'What packages are needed to be installed?',
+        message:'What packages need to be installed? If any what command should be used to install these packages?',
         default: 'none',
     },
     {
@@ -47,7 +79,15 @@ const questions = [
     {
         type: 'input',
         name: 'use',
-        message: 'What is this repo used for?',
+        message: 'What is this repo used for? (required)',
+        validate: nameInput => {
+            if (nameInput) {
+                return true;
+            } else {
+                console.log('Please enter the purpose of your repo.');
+                return false;
+            }
+        }
     },
     {
         type: 'input',
@@ -68,7 +108,7 @@ const writeToFile = fileContent => {
                 return;
             }
             resolve ({
-                okay:true,
+                okay: true,
                 message: 'File Created'
             });
         });
@@ -81,6 +121,7 @@ function init() {
         .then ((inquirerAnswers) => {
             console.log("Please wait while your README is being generated")
             writeToFile(generateMarkdown({ ...inquirerAnswers }));
+            console.log("File created!")
         });
 }
 

@@ -1,13 +1,13 @@
-# ttt
+# Professional ReadMe Generator
 ![GitHub license] (https://img.shields.io/badge/license-none-yellowgreen.svg)
 
 ## Github URL
 
-[sdf](https://github.com/sdf/)
+[Cesar863](https://github.com/Cesar863/)
 
 ## Description
 
-cedss
+This project generates a README file by asking simple questions and then populating them to a read me file.
 
 ## Table of Contents
 
@@ -27,11 +27,11 @@ cedss
 
 To install dependencies, please run these commands:
 
-fefe
+Inquierer and express
 
 ## Repo Use
 
-ytht
+This repo is used to generate a ReadMefile
 
 ## License 
       
@@ -41,7 +41,7 @@ ytht
 
 ## Contributors
 
-erf
+Cesar Martinez
 
 Contact me at undefined
 
@@ -53,4 +53,4 @@ node test
 
 ## Created by 
 
-qwe
+Cesar Martinez
