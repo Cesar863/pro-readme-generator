@@ -11,16 +11,16 @@ This project allows us to generate professional read me documents by answering s
 
 ## Table of Contents
 
-* [Installations](#installations (packages))
+* [Installations](#installations(packages))
 
-* [Repo use](#repo use)
+* [Repo use](#repouse)
 
 * [License](#license)
 
 
 * [Contributors](#contributors)
 
-* [Tests](#test)
+* [Tests](#tests)
 
 ## Installations (Packages)
 
