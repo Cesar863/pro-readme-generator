@@ -19,7 +19,7 @@ This project allows us to generate professional read me documents by answering s
 
 * [Contributors](#contributors)
 
-* [Test](#tests)
+* [Tests](#tests)
 
 ## Package Installations
 
