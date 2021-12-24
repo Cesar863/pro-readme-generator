@@ -11,9 +11,9 @@ This project allows us to generate professional read me documents by answering s
 
 ## Table of Contents
 
-* [Installations](#installations(packages))
+* [Installations](#installations)
 
-* [Repo use](#repouse)
+* [Repo use](#repo)
 
 * [License](#license)
 
