@@ -13,14 +13,14 @@ This project allows us to generate professional read me documents by answering s
 
 * [Installations](#installations (packages))
 
-* [use](#repo use)
+* [Repo use](#repo use)
 
 * [License](#license)
 
 
 * [Contributors](#contributors)
 
-* [Test](#test)
+* [Tests](#test)
 
 ## Installations (Packages)
 
