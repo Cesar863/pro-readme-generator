@@ -20,6 +20,11 @@ const questions = [
     },
     {
         type:'input',
+        name: 'contact',
+        message: 'Where can you be contacted?'
+    },
+    {
+        type:'input',
         name:'github',
         message:'What is your Github username? (required)',
         validate: nameInput => {
