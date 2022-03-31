@@ -5,6 +5,10 @@
 
 [Cesar863](https://github.com/Cesar863/)
 
+## Walkthrough Video
+
+https://youtu.be/0fWoocQMDNI
+
 ## Description
 
 This project allows us to generate professional read me documents by answering some simple questions.
